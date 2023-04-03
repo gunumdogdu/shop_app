@@ -38,17 +38,18 @@ class MyApp extends StatelessWidget {
                 bodyLarge: TextStyle(
                   color: Colors.black,
                   fontSize: 20,
-                  fontFamily: 'Anton',
+                  fontFamily: 'Lato',
                 ),
                 bodySmall: TextStyle(
-                  color: Colors.grey,
+                  color: Colors.black,
                   fontSize: 14,
+                  fontFamily: 'Lato',
                 ),
                 bodyMedium: TextStyle(
-                    color: Color.fromRGBO(250, 249, 246, 1),
+                    color: Colors.black,
                     fontWeight: FontWeight.bold,
                     fontSize: 16,
-                    fontFamily: 'Anton'),
+                    fontFamily: 'Lato'),
                 titleLarge: TextStyle(
                   color: Colors.black,
                   // fontWeight: FontWeight.bold,
