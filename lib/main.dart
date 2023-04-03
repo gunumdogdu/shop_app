@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
             false, //REMOVED DEBUG BANNER FOR AEST. PURPOSES
         title: 'MyShop',
         theme: ThemeData(
-          canvasColor: Colors.lightBlue.shade100,
+          canvasColor: Colors.orange.shade50,
           fontFamily: 'Lato',
           colorScheme: ColorScheme.fromSwatch(
             primarySwatch: Colors.deepOrange,
